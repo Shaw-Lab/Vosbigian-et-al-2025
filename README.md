@@ -2,5 +2,5 @@
 This repository contains R scripts relevant to "ATF6 enables pathogen infection in ticks by inducing _stomatin_ and altering cholesterol dynamics", pending review.
 
 **Citation:**
-Vosbigian KA, Wright SJ, Rosche KL, Fisk EA, Ramirez-Zepp E, Shelden EA, Shaw DK. ATF6 enables pathogen infection in ticks by inducing _stomatin_ and altering cholesterol dynamics. BioRxiv [Preprint]. 2025 Jan 8. 2025.01.08.632023. doi: 10.1101/2025.01.08.632023
+K.A. Vosbigian, S.J. Wright, B.P. Steiert, K.L. Rosche, E.A. Fisk, E. Ramirez-Zepp, J.M. Park, E.A. Shelden, & D.K. Shaw, ATF6 enables pathogen infection in ticks by inducing stomatin and altering cholesterol dynamics, Proc. Natl. Acad. Sci. U.S.A. 122 (25) e2501045122, https://doi.org/10.1073/pnas.2501045122 (2025).
 
